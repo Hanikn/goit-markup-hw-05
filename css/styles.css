@@ -780,6 +780,10 @@ body {
   visibility: hidden;
 }
 
+.visually-hidden {
+  visibility: hidden;
+}
+
 .check-mark {
   display: inline-flex;
   justify-content: center;
