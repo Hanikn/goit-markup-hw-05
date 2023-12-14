@@ -527,7 +527,6 @@ body {
 /* FORM */
 .footer-subscribe {
   margin-left: 80px;
-  line-height: 2;
 }
 
 .footer-par-subscribe {
@@ -547,14 +546,14 @@ body {
   color: #fff;
   font-weight: 500;
   letter-spacing: 0.02em;
-  line-height: 1.2;
 }
+
 .your-email {
   width: 264px;
   height: 40px;
   font-size: 12px;
   color: #ffffff;
-  line-height: 1.2;
+  line-height: 2;
   letter-spacing: 0.04em;
   padding-left: 16px;
   background-color: transparent;
