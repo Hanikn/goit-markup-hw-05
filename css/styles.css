@@ -565,9 +565,11 @@ body {
 
 .your-email::placeholder {
   color: #fff;
+  line-height: 1.2;
 }
 .your-email:focus {
   border-color: #4d5ae5;
+  line-height: 1.2;
 }
 
 .footer-btn {
