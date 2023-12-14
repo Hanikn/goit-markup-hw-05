@@ -527,6 +527,7 @@ body {
 /* FORM */
 .footer-subscribe {
   margin-left: 80px;
+  line-height: 2;
 }
 
 .footer-par-subscribe {
