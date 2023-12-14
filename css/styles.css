@@ -775,6 +775,11 @@ body {
 .form-checkbox:checked + .form-label .icon-check-mark {
   opacity: 1;
 }
+
+.form-checkbox {
+  visibility: hidden;
+}
+
 .check-mark {
   display: inline-flex;
   justify-content: center;
